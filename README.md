@@ -10,7 +10,7 @@ Course Project for Machine Learning and Predictive Analytics - MSc. in Analytics
     + Separation in Train, Validation, Test
     
 - Analysis:
-  + Model based: NMF
+  + Model based: Non-Negative Matrix Factorization
   + Memory based: User collaborative filtering
   + Content based
 
