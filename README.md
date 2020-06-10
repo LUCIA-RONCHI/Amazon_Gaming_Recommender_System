@@ -12,7 +12,10 @@ Course Project for Machine Learning and Predictive Analytics - MSc. in Analytics
 - Analysis:
   + Model based: Non-Negative Matrix Factorization
   + Memory based: User collaborative filtering
-  + Content based
+  + Content based:
+    + Snorkel-based content classification
+    + Improvements on classification wity Naive Bayes, Logistic Regression and Recurrent Neural Network
+    + Matrix factorization to reach user-content rating
 
 
 ## Authors
