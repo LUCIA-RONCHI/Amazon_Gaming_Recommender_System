@@ -1,8 +1,8 @@
 # Amazon Gaming Recommender System
 
-Course Project for Machine Learning - MSc. in Analytics at the University of Chicago
+Course Project for Machine Learning and Predictive Analytics - MSc. in Analytics at the University of Chicago
 
-# Structure of the repository
+## Structure of the repository
 
 - Data Cleaning:
     + Creation of a merged dataset
@@ -15,14 +15,14 @@ Course Project for Machine Learning - MSc. in Analytics at the University of Chi
   + Content based
 
 
-# Authors
+## Authors
 
-  - Dudek, Sarah
+  - Dudek, Sarah @sarahdudek
   - Flosi, Luis @LuisFlosi
   - Ronchi, Lucia @LUCIA-RONCHI
-  - Zhang, Miaoxuan @
+  - Zhang, Miaoxuan @zhang6217
 
-# *References*
+## References
 
 Justifying recommendations using distantly-labeled reviews and fined-grained aspects
 
